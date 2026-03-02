@@ -3145,6 +3145,19 @@
       "content_type": "audio/mpeg",
       "received_bytes": 4096,
       "error": null
+    },
+    {
+      "timestamp": "2026-03-02T19:51:49.172836Z",
+      "searched_url": null,
+      "final_url": null,
+      "ok": false,
+      "fail_count": 1,
+      "status": "unstable",
+      "status_icon": "🟡",
+      "http_status": null,
+      "content_type": null,
+      "received_bytes": 0,
+      "error": "radio_browser_error: Expecting value: line 1 column 1 (char 0)"
     }
   ]
 }
