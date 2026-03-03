@@ -3197,6 +3197,19 @@
       "content_type": null,
       "received_bytes": 0,
       "error": "radio_browser_error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "timestamp": "2026-03-03T05:06:27.679341Z",
+      "searched_url": null,
+      "final_url": null,
+      "ok": false,
+      "fail_count": 2,
+      "status": "unstable",
+      "status_icon": "🟡",
+      "http_status": null,
+      "content_type": null,
+      "received_bytes": 0,
+      "error": "radio_browser_error: Expecting value: line 1 column 1 (char 0)"
     }
   ]
 }
