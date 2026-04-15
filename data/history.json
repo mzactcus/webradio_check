@@ -11972,6 +11972,19 @@
       "content_type": "audio/mpeg",
       "received_bytes": 4096,
       "error": null
+    },
+    {
+      "timestamp": "2026-04-15T19:25:15.173242Z",
+      "searched_url": null,
+      "final_url": null,
+      "ok": false,
+      "fail_count": 1,
+      "status": "unstable",
+      "status_icon": "🟡",
+      "http_status": null,
+      "content_type": null,
+      "received_bytes": 0,
+      "error": "radio_browser_error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
   ]
 }
