@@ -18446,6 +18446,19 @@
       "content_type": "audio/mpeg",
       "received_bytes": 4096,
       "error": null
+    },
+    {
+      "timestamp": "2026-06-01T16:41:33.904169Z",
+      "searched_url": "https://funkhaus-st.streamabc.net/106-suedtirol1-mp3-192-7572619",
+      "final_url": null,
+      "ok": false,
+      "fail_count": 3,
+      "status": "dead",
+      "status_icon": "🔴",
+      "http_status": null,
+      "content_type": null,
+      "received_bytes": null,
+      "error": "HTTPSConnectionPool(host='funkhaus-st.streamabc.net', port=443): Read timed out. (read timeout=20)"
     }
   ]
 }
