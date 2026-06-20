@@ -20162,6 +20162,19 @@
       "content_type": null,
       "received_bytes": 0,
       "error": "radio_browser_error: HTTPConnectionPool(host='all.api.radio-browser.info', port=80): Read timed out. (read timeout=20)"
+    },
+    {
+      "timestamp": "2026-06-20T12:00:31.607550Z",
+      "searched_url": null,
+      "final_url": null,
+      "ok": false,
+      "fail_count": 2,
+      "status": "unstable",
+      "status_icon": "🟡",
+      "http_status": null,
+      "content_type": null,
+      "received_bytes": 0,
+      "error": "radio_browser_error: HTTPConnectionPool(host='all.api.radio-browser.info', port=80): Read timed out. (read timeout=20)"
     }
   ]
 }
