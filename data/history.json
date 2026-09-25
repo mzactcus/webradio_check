@@ -33929,6 +33929,32 @@
       "content_type": "audio/mpeg",
       "received_bytes": 4096,
       "error": null
+    },
+    {
+      "timestamp": "2026-09-25T18:22:02.395603Z",
+      "searched_url": "https://stream.suedtirol1.it/live/mp3-192/direct/?utm_source=chatgpt.com",
+      "final_url": "https://funkhaus-st.streamabc.net/106-suedtirol1-mp3-192-7572619?sABC=6no6oopo%230%234ns84ros1o80q724q1567p4oqp679rs0%23qverpg&utm_source=chatgpt.com&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1790360523",
+      "ok": true,
+      "fail_count": 0,
+      "status": "stable",
+      "status_icon": "🟢",
+      "http_status": 200,
+      "content_type": "audio/mpeg",
+      "received_bytes": 4096,
+      "error": null
+    },
+    {
+      "timestamp": "2026-09-25T18:22:02.395603Z",
+      "searched_url": "https://funkhaus-st.streamabc.net/106-suedtirol1-mp3-192-7572619",
+      "final_url": "https://funkhaus-st.streamabc.net/106-suedtirol1-mp3-192-7572619",
+      "ok": true,
+      "fail_count": 0,
+      "status": "stable",
+      "status_icon": "🟢",
+      "http_status": 200,
+      "content_type": "audio/mpeg",
+      "received_bytes": 4096,
+      "error": null
     }
   ]
 }
