@@ -38232,6 +38232,32 @@
       "content_type": null,
       "received_bytes": 0,
       "error": "radio_browser_error: HTTPConnectionPool(host='all.api.radio-browser.info', port=80): Read timed out. (read timeout=20)"
+    },
+    {
+      "timestamp": "2026-10-30T22:51:48.183547Z",
+      "searched_url": "https://stream.suedtirol1.it/live/mp3-192/direct/?utm_source=chatgpt.com",
+      "final_url": "https://funkhaus-st.streamabc.net/106-suedtirol1-mp3-192-7572619?sABC=6nr51s85%230%23nq5rps43085o4s1qs02p3srrrn74qn45%23qverpg&utm_source=chatgpt.com&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1793400709",
+      "ok": true,
+      "fail_count": 0,
+      "status": "stable",
+      "status_icon": "🟢",
+      "http_status": 200,
+      "content_type": "audio/mpeg",
+      "received_bytes": 4096,
+      "error": null
+    },
+    {
+      "timestamp": "2026-10-30T22:51:48.183547Z",
+      "searched_url": "https://funkhaus-st.streamabc.net/106-suedtirol1-mp3-192-7572619",
+      "final_url": "https://funkhaus-st.streamabc.net/106-suedtirol1-mp3-192-7572619",
+      "ok": true,
+      "fail_count": 0,
+      "status": "stable",
+      "status_icon": "🟢",
+      "http_status": 200,
+      "content_type": "audio/mpeg",
+      "received_bytes": 4096,
+      "error": null
     }
   ]
 }
